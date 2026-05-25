@@ -8,5 +8,6 @@ title: Sound Mind — Legal
 - [Help & FAQs](./help.html)
 - [Privacy Policy](./privacy.html)
 - [Terms of Service](./terms.html)
+- [Delete Your Account](./delete-account.html)
 
 For any question, contact **soundmindchannel@gmail.com**.
