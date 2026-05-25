@@ -115,10 +115,6 @@ Note: deleting your account in Sound Mind does **not** cancel an active App Stor
 
 Profile → Notifications → **Daily Reminder**. Pick a time that works for you. We'll send a gentle nudge to pause, breathe, and take a thought captive.
 
-### How do I turn off email notifications?
-
-Profile → Email Notifications. Toggle off **Weekly Progress Summary** or **Encouragement Messages** individually.
-
 ---
 
 ## Account
