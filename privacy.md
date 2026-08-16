@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: 14 May 2026**
+**Last updated: 16 August 2026**
 
 This Privacy Policy describes how **Sound Mind** ("we", "us", or "our") collects, uses, and protects information when you use the Sound Mind mobile application (the "App"). Sound Mind is operated from South Africa. The data controller is reachable at: **soundmindchannel@gmail.com**.
 
@@ -125,7 +125,7 @@ We use industry-standard safeguards to protect your information, including encry
 
 Sound Mind is a faith-based wellness application. It is **not** a medical device, mental health treatment, or substitute for professional care. The App does not diagnose, treat, cure, or prevent any disease or psychological condition.
 
-If you are experiencing a mental health crisis, please contact a qualified professional or a crisis line. In South Africa, contact the **South African Depression and Anxiety Group (SADAG)** at **0800 567 567** (24-hour helpline) or **0800 12 13 14**. If you are outside South Africa, please contact your local emergency services.
+If you are experiencing a mental health crisis, please contact a qualified professional or a crisis line in your country. **[Find A Helpline](https://findahelpline.com)** lists free, confidential support services in over 130 countries. If you are in immediate danger, please contact your local emergency services.
 
 ---
 

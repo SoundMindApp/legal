@@ -139,8 +139,8 @@ Yes. Right after you create your account, the App offers to enable biometric sig
 
 **No.** Sound Mind is a faith-based wellness tool, not a substitute for professional medical or mental health care. If you are experiencing a crisis, please contact a qualified professional immediately.
 
-- **South Africa:** SADAG Suicide Crisis Line — 0800 567 567 (24-hour helpline)
-- **Other regions:** contact your local emergency services.
+- **[Find A Helpline](https://findahelpline.com):** free, confidential crisis support in over 130 countries
+- **In an emergency:** contact your local emergency services.
 
 ---
 

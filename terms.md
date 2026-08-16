@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: 14 May 2026**
+**Last updated: 16 August 2026**
 
 Welcome to **Sound Mind**. These Terms of Service ("Terms") govern your access to and use of the Sound Mind mobile application (the "App") operated by Sound Mind from South Africa ("we", "us", or "our").
 
@@ -108,8 +108,8 @@ You should **not** rely on the App as a substitute for advice or treatment from 
 
 Crisis support resources:
 
-- **South Africa** — SADAG 24-hour helpline: **0800 567 567** or **0800 12 13 14**
-- **Outside South Africa** — please contact your local emergency services
+- **[Find A Helpline](https://findahelpline.com)** — free, confidential crisis support in over 130 countries
+- **In an emergency** — please contact your local emergency services
 
 Your use of the App is entirely at your own discretion and risk.
 
