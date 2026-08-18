@@ -28,14 +28,14 @@ We believe lasting peace doesn't come from techniques alone. It comes from the d
 
 Each Capture session walks you through a guided neuroplasticity practice rooted in biblical principles:
 
-1. **Breath** — A short box-breathing pause to ground you.
+1. **Breathe** — A guided breathing pause, with a long exhale to settle you.
 2. **Notice** — Become aware of the thought or feeling that's surfaced.
-3. **Examine** — Write down the underlying lie or fear behind it.
+3. **Examine** — Uncover the lie or fear underneath the thought.
 4. **Surrender** — Break agreement with the lie through prayer.
 5. **Replace** — Receive God's truth through a matched Scripture and declaration.
-6. **Declare** — Speak the truth out loud, twice. Then reflect on how to live it.
+6. **Declare** — Speak the truth out loud, twice.
 
-Each session takes about 5 minutes. Most thoughts take 21–63 days of consistent capturing before they lose their grip — and Sound Mind tracks that journey for you on the Projects tab.
+Each session takes about 5 minutes. Most thoughts take 21–63 days of consistent capturing before they lose their grip — and Sound Mind tracks that journey for you on the Thoughts tab.
 
 ---
 
